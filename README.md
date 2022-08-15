@@ -1,4 +1,4 @@
-# About blove-theme-emacs
+# About blove-theme-emacs (2022.08.15 update)
 
 ### There are two variants of the theme:
 
